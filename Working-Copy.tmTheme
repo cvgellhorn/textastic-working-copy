@@ -116,6 +116,17 @@
 		</dict>
         <dict>
 			<key>name</key>
+			<string>Object key</string>
+			<key>scope</key>
+			<string>meta.object-literal.key</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C8E1FF</string>
+			</dict>
+		</dict>
+        <dict>
+			<key>name</key>
 			<string>Function Argument</string>
 			<key>scope</key>
 			<string>variable.parameter</string>
